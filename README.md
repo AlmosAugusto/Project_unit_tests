@@ -1,13 +1,38 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas vindas ao repositório do projeto Unit Tests!!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<details>
+  <summary>
+    <strong>:memo: Sobre o projeto</strong>
+  </summary><br>
+  
+  - Projeto Unit Tests desenvolvido na Trybe no módulo de desenvolvimento..
+  
+  - Desenvolver funções a partir de requisitos e testes unitários, utilizando a biblioteca do Jest para verificar o correto funcionamento dessas funções.
+</details>
+
+<details>
+  <summary>
+    <strong>:wrench: Tecnologias utilizadas</strong>
+  </summary><br>
+  
+  - JavaScript 
+  - Testes Unitários
+  - Jest
+  
+  
+</details>
+
+<details>
+  <summary>
+    <strong>Habilidades</strong>
+  </summary><br>
+  Neste projeto, foi verificado como:
+
+* Aderência do código à especificação. Seu programa deve se comportar como especificado na próxima seção;
+* Organização do código. Quebre seu código em funções. Prefira funções pequenas, simples e bem definidas a funções grandes e complexas.
+* Aplicar a criação e utilização de Interfaces;
+* Desenvolver funções seguindo requisitos específicos e, para garantir o correto funcionamento a qualidade do código, você implementará testes unitários para certificá-los.
+
+
+
